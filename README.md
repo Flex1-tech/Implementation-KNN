@@ -109,7 +109,7 @@ predictions = knn.predict(X_test)
 
 L’implémentation a été testée sur un **dataset réel** et comparée avec l’algorithme **KNN de scikit-learn**.
 
-Les résultats obtenus montrent des **performances globalement similaires**, ce qui confirme la validité de l’implémentation.
+Les résultats obtenus montrent des **performances similaires**, ce qui confirme la validité de l’implémentation.
 
 ---
 
@@ -128,3 +128,4 @@ Plusieurs améliorations peuvent être envisagées :
 * optimisation des performances pour les grands datasets
 * ajout d’une **pondération des voisins**
 * ajout d’une **normalisation automatique des données**
+
